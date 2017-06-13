@@ -1,3 +1,2 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/conderodrigo98/pen/xdWxQZ.
-
+Another of my Free code camp projects. This app functions as a search engine for wikipedia articles.
  
